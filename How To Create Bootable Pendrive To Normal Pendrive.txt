@@ -1,0 +1,19 @@
+How To Create Bootable Pendrive To Normal Pendrive
+
+Step 1: Open Disk Partition Through Command Line
+        Diskpart
+
+Step 2: See All Disk  
+        list disk
+
+Step 3: Select Disk Where is Your Pen Drive
+        Select Disk 2
+
+Step 4: Clean Selected Disk
+        Clean
+
+Step 5: Create Primary Partition
+        Create Partition Primary
+
+Step 6: Format Volume
+        format fs=fat32 quick

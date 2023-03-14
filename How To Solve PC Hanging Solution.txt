@@ -1,0 +1,13 @@
+How To Solve PC Hanging Solution
+
+Step 1:
+uninstall unnecessory application
+
+
+Step 2:
+Restart The Windows Explorer From Task Manager
+
+
+Step 3:
+Upgrade To SSD
+
